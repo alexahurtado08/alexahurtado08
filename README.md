@@ -94,7 +94,10 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
 # Lenguajes Más Usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexahurtadoo08&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexahurtado08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
